@@ -2,7 +2,11 @@ html {
     font-size: 62.5%;
 }
 body {
+<<<<<<< HEAD
     background-color: #f5f3f3
+=======
+    background-color: #f8f8f8
+>>>>>>> 3574688 (desplazamineto)
 }
 h1 {
     text-align: center;
@@ -58,11 +62,19 @@ ul {
 
     top:100%;
     z-index: 1;
+<<<<<<< HEAD
     background-color: white;
     padding: 20px;
     min-height: 400px;
     min-width: 300px;
 }
+=======
+    background-color:white;
+    padding: 20px;
+    min-height: 400px;
+    min-width: 300px;
+}ºº
+>>>>>>> 3574688 (desplazamineto)
 .vacio {
     padding: 10px;
     background-color: crimson;
@@ -146,7 +158,11 @@ ul {
     border: 1px solid #e1e1e1;
     background: white;
 }
+<<<<<<< HEAD
 @media (min-width: 550px) {
+=======
+@media (min-width: 650px) {
+>>>>>>> 3574688 (desplazamineto)
     .card {
         text-align: left;
     }

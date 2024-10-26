@@ -416,3 +416,14 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+<<<<<<< HEAD
+=======
+
+.item {
+  height: 100px;
+  margin: 10px 0;
+  background: #e0e0e0;
+  text-align: center;
+  line-height: 100px;
+}
+>>>>>>> 3574688 (desplazamineto)
