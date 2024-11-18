@@ -81,10 +81,13 @@ ul {
 .contenido-hero form #buscador {
     height: 50px;
     margin-bottom: 0;
+    position: relative;
+    top:0%;
+    left: 50%;
 }
 .contenido-hero form .submit-buscador {
     position: absolute;
-    right:0;
+    right: -50%;
     top:0;
     height: 100%;
     padding: 0;
